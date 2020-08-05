@@ -2,7 +2,7 @@
 ## for retrieval.
 
 ## This function creates a list of commands for the second function to use upon 
-## solving for or retrieving the inverse of the original matrix.
+## solving for or retrieving the inverse of the original matrix (x).
 
 makeCacheMatrix <- function(x = matrix()) {
       invers <- NULL
